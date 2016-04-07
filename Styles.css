@@ -1,0 +1,20 @@
+body {
+	background-color:#999;
+}
+
+#Nearest {
+	background-color:#77F;
+	width:100px;
+}
+
+#Smallest {
+	background-color:#77F;
+	width:100px;
+}
+
+#canvas{
+	background-color:  #FFF;
+}
+#canvas2{
+	background-color: #FFF;
+}
