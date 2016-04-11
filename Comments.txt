@@ -1,0 +1,5 @@
+Good job with both of these projects. Your Java implementation, while less formal than our other work, could still use some comments. 
+
+Similarly, your javascript/css/html code should be commented with your name, etc. The functionality is fine - although your TSP solution does not go back home, it follows the correct algorithm.
+
+Grade: A
